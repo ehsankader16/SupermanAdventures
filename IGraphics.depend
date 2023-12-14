@@ -1,0 +1,511 @@
+# depslib dependency file v1.0
+1563196723 source:d:\buet\study (can be more than 2gb)\cse 101\igraphics-master\balldemo.cpp
+	"iGraphics.h"
+	"gl.h"
+	<stdlib.h>
+
+1563214063 d:\buet\study (can be more than 2gb)\cse 101\igraphics-master\igraphics.h
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	"glut.h"
+	<time.h>
+	<math.h>
+	"glaux.h"
+
+1562594874 d:\buet\study (can be more than 2gb)\cse 101\igraphics-master\opengl\include\glut.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1562594874 d:\buet\study (can be more than 2gb)\cse 101\igraphics-master\opengl\include\glaux.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1562594874 d:\buet\study (can be more than 2gb)\cse 101\igraphics-master\opengl\include\gl.h
+
+1563265303 source:d:\buet\study (can be more than 2gb)\cse 101\igraphics-master\imain.cpp
+	"iGraphics.h"
+
+1562594874 source:d:\buet\study (can be more than 2gb)\cse 101\igraphics-master\mousedemo.cpp
+	"iGraphics.h"
+
+1563279215 source:d:\buet\study (can be more than 2gb)\cse 101\igraphics-master\my solar system.cpp
+	"iGraphics.h"
+
+1563288658 source:d:\buet\study (can be more than 2gb)\cse 101\igraphics-master\my solar system with ellipse (unfinished).cpp
+	"iGraphics.h"
+
+1563297822 source:d:\buet\study (can be more than 2gb)\cse 101\igraphics-master\my solar system with ellipse.cpp
+	"iGraphics.h"
+
+1563387091 source:d:\buet\study (can be more than 2gb)\cse 101\igraphics-master\solar system offline.cpp
+	"iGraphics.h"
+
+1563557545 source:d:\igraphics\balldemo.cpp
+	"iGraphics.h"
+	"gl.h"
+
+1563340944 d:\igraphics\igraphics.h
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	"glut.h"
+	<time.h>
+	<math.h>
+	"glaux.h"
+
+1563340958 d:\igraphics\opengl\include\glut.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1563340954 d:\igraphics\opengl\include\glaux.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1563340954 d:\igraphics\opengl\include\gl.h
+
+1566149050 source:d:\project (igraphics\igraphics\balldemo.cpp
+	"iGraphics.h"
+	"gl.h"
+
+1563340944 d:\project (igraphics\igraphics\igraphics.h
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	"glut.h"
+	<time.h>
+	<math.h>
+	"glaux.h"
+
+1563340958 d:\project (igraphics\igraphics\opengl\include\glut.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1563340954 d:\project (igraphics\igraphics\opengl\include\glaux.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1563340954 d:\project (igraphics\igraphics\opengl\include\gl.h
+
+1566369401 source:d:\project (igraphics\igraphics\superman.cpp
+	"iGraphics.h"
+	"gl.h"
+	<Windows.h>
+
+1566370499 source:d:\project (igraphics)\igraphics\superman.cpp
+	"iGraphics.h"
+	"gl.h"
+	<Windows.h>
+
+1563340944 d:\project (igraphics)\igraphics\igraphics.h
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	"glut.h"
+	<time.h>
+	<math.h>
+	"glaux.h"
+
+1563340958 d:\project (igraphics)\igraphics\opengl\include\glut.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1563340954 d:\project (igraphics)\igraphics\opengl\include\glaux.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1563340954 d:\project (igraphics)\igraphics\opengl\include\gl.h
+
+1566875047 source:d:\project (igraphics)\superman adventures\superman.cpp
+	"iGraphics.h"
+	"gl.h"
+	<Windows.h>
+	<math.h>
+
+1563340944 d:\project (igraphics)\superman adventures\igraphics.h
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	"glut.h"
+	<time.h>
+	<math.h>
+	"glaux.h"
+
+1563340958 d:\project (igraphics)\superman adventures\opengl\include\glut.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1563340954 d:\project (igraphics)\superman adventures\opengl\include\glaux.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1563340954 d:\project (igraphics)\superman adventures\opengl\include\gl.h
+
+1566894711 source:d:\superman adventures\superman.cpp
+	"iGraphics.h"
+	"gl.h"
+	<Windows.h>
+	<math.h>
+
+1563340944 d:\superman adventures\igraphics.h
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	"glut.h"
+	<time.h>
+	<math.h>
+	"glaux.h"
+
+1563340958 d:\superman adventures\opengl\include\glut.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1563340954 d:\superman adventures\opengl\include\glaux.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1563340954 d:\superman adventures\opengl\include\gl.h
+
+1567421274 source:d:\superman adventures\try.cpp
+	"iGraphics.h"
+	"gl.h"
+	<math.h>
+
+1567451935 source:e:\pantha\superman adventures\try.cpp
+	"iGraphics.h"
+	"gl.h"
+	<math.h>
+
+1563340944 e:\pantha\superman adventures\igraphics.h
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	"glut.h"
+	<time.h>
+	<math.h>
+	"glaux.h"
+
+1563340958 e:\pantha\superman adventures\opengl\include\glut.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1563340954 e:\pantha\superman adventures\opengl\include\glaux.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1563340954 e:\pantha\superman adventures\opengl\include\gl.h
+
+1567451935 source:c:\users\user\desktop\superman adventures\try.cpp
+	"iGraphics.h"
+	"gl.h"
+	<math.h>
+
+1563340944 c:\users\user\desktop\superman adventures\igraphics.h
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	"glut.h"
+	<time.h>
+	<math.h>
+	"glaux.h"
+
+1563340958 c:\users\user\desktop\superman adventures\opengl\include\glut.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1563340954 c:\users\user\desktop\superman adventures\opengl\include\glaux.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1563340954 c:\users\user\desktop\superman adventures\opengl\include\gl.h
+
+1567919947 source:c:\users\user\desktop\working\try.cpp
+	"iGraphics.h"
+	"gl.h"
+	<Windows.h>
+	<math.h>
+	<stdio.h>
+
+1563340944 c:\users\user\desktop\working\igraphics.h
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	"glut.h"
+	<time.h>
+	<math.h>
+	"glaux.h"
+
+1563340958 c:\users\user\desktop\working\opengl\include\glut.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1563340954 c:\users\user\desktop\working\opengl\include\glaux.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1563340954 c:\users\user\desktop\working\opengl\include\gl.h
+
+1567885785 source:c:\users\user\desktop\working\broken continue.cpp
+	"iGraphics.h"
+	"gl.h"
+	<Windows.h>
+	<math.h>
+	<stdio.h>
+
+1567933814 source:c:\users\user\desktop\working\current 2 (sb).cpp
+	"iGraphics.h"
+	"gl.h"
+	<Windows.h>
+	<math.h>
+	<stdio.h>
+
+1568092909 source:c:\users\user\desktop\working\current 3.cpp
+	"iGraphics.h"
+	"gl.h"
+	<Windows.h>
+	<math.h>
+	<stdio.h>
+
+1568104172 source:c:\users\user\desktop\working\final.cpp
+	"iGraphics.h"
+	"gl.h"
+	<Windows.h>
+	<math.h>
+	<stdio.h>
+
+1568116752 source:c:\users\user\desktop\working\final3(from sb).cpp
+	"iGraphics.h"
+	"gl.h"
+	<Windows.h>
+	<math.h>
+	<stdio.h>
+
+1568116869 source:c:\users\user\desktop\working\final3(from sumon).cpp
+	"iGraphics.h"
+	"gl.h"
+	<Windows.h>
+	<math.h>
+	<stdio.h>
+
+1568117772 source:c:\users\user\desktop\working\final3(sumon).cpp
+	"iGraphics.h"
+	"gl.h"
+	<Windows.h>
+	<math.h>
+	<stdio.h>
+
+1568133795 source:c:\users\user\desktop\working\final3.cpp
+	"iGraphics.h"
+	"gl.h"
+	<Windows.h>
+	<math.h>
+	<stdio.h>
+
+1568136479 source:c:\users\user\desktop\final 3\final3.cpp
+	"iGraphics.h"
+	"gl.h"
+	<Windows.h>
+	<math.h>
+	<stdio.h>
+
+1563340944 c:\users\user\desktop\final 3\igraphics.h
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	"glut.h"
+	<time.h>
+	<math.h>
+	"glaux.h"
+
+1563340958 c:\users\user\desktop\final 3\opengl\include\glut.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1563340954 c:\users\user\desktop\final 3\opengl\include\glaux.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1563340954 c:\users\user\desktop\final 3\opengl\include\gl.h
+
+1568224099 source:c:\users\user\desktop\final 3\almost done.cpp
+	"iGraphics.h"
+	"gl.h"
+	<Windows.h>
+	<math.h>
+	<stdio.h>
+
+1568297761 source:c:\users\user\desktop\final 3\almost done (2).cpp
+	"iGraphics.h"
+	"gl.h"
+	<Windows.h>
+	<math.h>
+	<stdio.h>
+
+1568300474 source:c:\users\user\desktop\final 3\erfan2.cpp
+	"iGraphics.h"
+	"gl.h"
+	<Windows.h>
+	<math.h>
+	<stdio.h>
+
+1568312444 source:c:\users\user\desktop\final 3\final from anup.cpp
+	"iGraphics.h"
+	"gl.h"
+	<Windows.h>
+	<math.h>
+	<stdio.h>
+
+1568313095 source:c:\users\user\desktop\final\final from anup.cpp
+	"iGraphics.h"
+	"gl.h"
+	<Windows.h>
+	<math.h>
+	<stdio.h>
+
+1563340944 c:\users\user\desktop\final\igraphics.h
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	"glut.h"
+	<time.h>
+	<math.h>
+	"glaux.h"
+
+1563340958 c:\users\user\desktop\final\opengl\include\glut.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1563340954 c:\users\user\desktop\final\opengl\include\glaux.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1563340954 c:\users\user\desktop\final\opengl\include\gl.h
+
+1568373435 source:c:\users\user\desktop\final\final-from-sb.cpp
+	"iGraphics.h"
+	"gl.h"
+	<Windows.h>
+	<math.h>
+	<stdio.h>
+
+1568376307 source:c:\users\user\desktop\final\final-from-anup.cpp
+	"iGraphics.h"
+	"gl.h"
+	<Windows.h>
+	<math.h>
+	<stdio.h>
+
+1568381934 source:c:\users\user\desktop\final\final form sumon.cpp
+	"iGraphics.h"
+	"gl.h"
+	<Windows.h>
+	<math.h>
+	<stdio.h>
+	<stdlib.h>
+
+1568388085 source:c:\users\user\desktop\final\eita ar change korbi na.cpp
+	"iGraphics.h"
+	"gl.h"
+	<Windows.h>
+	<math.h>
+	<stdio.h>
+
+1568403542 source:c:\users\user\desktop\eta change korle mair khabi\eita ar change korbi na.cpp
+	"iGraphics.h"
+	"gl.h"
+	<Windows.h>
+	<math.h>
+	<stdio.h>
+
+1563340944 c:\users\user\desktop\eta change korle mair khabi\igraphics.h
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	"glut.h"
+	<time.h>
+	<math.h>
+	"glaux.h"
+
+1563340958 c:\users\user\desktop\eta change korle mair khabi\opengl\include\glut.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1563340954 c:\users\user\desktop\eta change korle mair khabi\opengl\include\glaux.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1563340954 c:\users\user\desktop\eta change korle mair khabi\opengl\include\gl.h
+
+1568436799 source:c:\users\user\desktop\eta change korle mair khabi\khala.cpp
+	"iGraphics.h"
+	"gl.h"
+	<Windows.h>
+	<math.h>
+	<stdio.h>
+
+1568437386 source:c:\users\user\desktop\superman adventures\khala.cpp
+	"iGraphics.h"
+	"gl.h"
+	<Windows.h>
+	<math.h>
+	<stdio.h>
+
+1568438414 source:c:\users\user\desktop\superman adventures\superman adventures.cpp
+	"iGraphics.h"
+	"gl.h"
+	<Windows.h>
+	<math.h>
+	<stdio.h>
+
+1568438414 source:c:\users\kader bros\downloads\superman adventures\superman adventures\superman adventures.cpp
+	"iGraphics.h"
+	"gl.h"
+	<Windows.h>
+	<math.h>
+	<stdio.h>
+
+1563340944 c:\users\kader bros\downloads\superman adventures\superman adventures\igraphics.h
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	"glut.h"
+	<time.h>
+	<math.h>
+	"glaux.h"
+
+1563340958 c:\users\kader bros\downloads\superman adventures\superman adventures\opengl\include\glut.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1563340954 c:\users\kader bros\downloads\superman adventures\superman adventures\opengl\include\glaux.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1563340954 c:\users\kader bros\downloads\superman adventures\superman adventures\opengl\include\gl.h
+
